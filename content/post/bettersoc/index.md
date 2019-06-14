@@ -77,8 +77,8 @@ In this context, *accountability* becomes a relevant concept, since it comprises
 As a consequence, the more accountable a system is, the more audit power it gives to people.
 
 Within the field of Biometrics, traditional iris recognition solutions are well known for constituting very reliable methods of identity verification.
-Nevertheless, since they are not human-friendly enough to convince people who do not possess image processing expertise, their usage before a jury in courts of law is still avoided.
-Aware of this limitation, Prof. [Adam Czajka](https://engineering.nd.edu/profiles/aczajka) has started at [CVRL](https://cvrl.nd.edu/) the investigation of more human-intelligible iris matching strategies.
+Nevertheless, since they are not human-friendly enough to convince people who do not possess image processing expertise, their usage before a jury in courts of law is usually avoided.
+Aware of this limitation, Prof. [Adam Czajka](https://engineering.nd.edu/profiles/aczajka) has started at [CVRL](https://cvrl.nd.edu/) the investigation of human-intelligible iris matching strategies.
 
 I'm having the chance to tackle the lack of accountability in iris recognition algorithms through the [TSHEPII](/project/tshepii) project.
 
