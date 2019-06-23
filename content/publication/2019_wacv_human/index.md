@@ -36,11 +36,11 @@ links:
 url_pdf: https://arxiv.org/pdf/1807.05245.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: './publication/2019_wacv_human/poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=mb4uxajrrWE'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

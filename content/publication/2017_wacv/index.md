@@ -39,7 +39,7 @@ links:
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: './publication/2017_wacv/poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
