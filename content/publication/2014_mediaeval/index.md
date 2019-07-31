@@ -35,8 +35,8 @@ tags:
 featured: false
 
 links:
-#- name: Web
-#  url: https://ieeexplore.ieee.org/document/7926633
+- name: Web
+  url: http://ceur-ws.org/Vol-1263/
 url_pdf: 'http://ceur-ws.org/Vol-1263/mediaeval2014_submission_89.pdf'
 url_code: ''
 url_dataset: ''

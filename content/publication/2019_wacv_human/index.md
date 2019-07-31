@@ -7,7 +7,7 @@ authors:
 - Kevin Bowyer
 - Patrick Flynn
 date: "2019-01-07"
-doi: "https://doi.org/10.1109/WACV.2019.00105"
+doi: "10.1109/WACV.2019.00105"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,10 +31,10 @@ tags:
 featured: false
 
 links:
-- name: Web
-  url: https://ieeexplore.ieee.org/document/8658624
+#- name: Web
+#  url: https://ieeexplore.ieee.org/document/8658624
 url_pdf: https://arxiv.org/pdf/1807.05245.pdf
-url_code: ''
+url_code: 'https://github.com/danielmoreira/iris-examination'
 url_dataset: ''
 url_poster: './publication/2019_wacv_human/poster.pdf'
 url_project: ''

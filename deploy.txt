@@ -5,6 +5,7 @@ git push -u origin master
 
 hugo
 cd public
+sed -i -e 's/portrait{width:60px;height:60px;margin:0 auto;border-radius:50%/portrait{width:60px;height:60px;margin:0 auto;border-radius:10% \/ 10%'/g css/academic.min.bedfb9c4bf47a56f71e8926df031a94e.css
 git add .
 git commit -m "Website 1st version completion."
 git push -u origin master

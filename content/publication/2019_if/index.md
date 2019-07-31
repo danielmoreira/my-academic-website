@@ -10,7 +10,7 @@ authors:
 - Siome Goldenstein
 - Anderson Rocha
 date: "2019-01-01"
-doi: "https://doi.org/10.1016/j.inffus.2018.03.001"
+doi: "10.1016/j.inffus.2018.03.001"
 
 # Schedule page publish date (NOT publication's date).
 # cpublishDate: "2017-01-01T00:00:00Z"
@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: Web
 #  url: 
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1566253517302865/pdfft?md5=02672a60613662d519290413257c7705&pid=1-s2.0-S1566253517302865-main.pdf
+url_pdf: ./publication/2019_if/paper.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

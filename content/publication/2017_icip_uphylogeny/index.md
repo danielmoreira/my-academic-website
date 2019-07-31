@@ -10,7 +10,7 @@ authors:
 - Walter Scheirer
 - Anderson Rocha
 date: "2017-09-20"
-doi: "https://doi.org/10.1109/ICIP.2017.8296535"
+doi: "10.1109/ICIP.2017.8296535"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,8 +34,8 @@ tags:
 featured: false
 
 links:
-- name: Web
-  url: https://ieeexplore.ieee.org/document/8296535
+#- name: Web
+#  url: https://ieeexplore.ieee.org/document/8296535
 url_pdf: https://arxiv.org/pdf/1705.11187.pdf
 url_code: 'https://gitlab.com/notredame-provenance/u-phylogeny'
 url_dataset: ''

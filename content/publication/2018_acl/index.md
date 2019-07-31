@@ -30,7 +30,7 @@ featured: false
 
 links:
 - name: Web
-  url: https://ieeexplore.ieee.org/document/8658238
+  url: https://www.aclweb.org/anthology/W18-3301
 url_pdf: https://arxiv.org/pdf/1807.01122.pdf
 url_code: ''
 url_dataset: ''

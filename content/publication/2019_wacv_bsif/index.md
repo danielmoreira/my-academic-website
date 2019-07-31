@@ -6,7 +6,7 @@ authors:
 - Kevin Bowyer
 - Patrick Flynn
 date: "2019-01-07"
-doi: "https://doi.org/10.1109/WACV.2019.00107"
+doi: "10.1109/WACV.2019.00107"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-- name: Web
-  url: https://ieeexplore.ieee.org/document/8658238
+#- name: Web
+#  url: https://ieeexplore.ieee.org/document/8658238
 url_pdf: https://arxiv.org/pdf/1807.05248.pdf
 url_code: ''
 url_dataset: ''

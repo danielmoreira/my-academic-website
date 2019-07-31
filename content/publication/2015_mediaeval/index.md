@@ -34,8 +34,8 @@ tags:
 featured: false
 
 links:
-#- name: Web
-#  url: https://ieeexplore.ieee.org/document/7926633
+- name: Web
+  url: https://www.semanticscholar.org/paper/RECOD-at-MediaEval-2015%3A-Affective-Impact-of-Movies-Moreira-Avila/b92bc3c62b2acb317259a0475c4afb78ad8c036f
 url_pdf: 'https://pdfs.semanticscholar.org/b92b/c3c62b2acb317259a0475c4afb78ad8c036f.pdf'
 url_code: ''
 url_dataset: ''

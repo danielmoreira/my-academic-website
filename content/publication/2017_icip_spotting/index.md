@@ -11,7 +11,7 @@ authors:
 - Anderson Rocha
 - Walter Scheirer
 date: "2017-09-20"
-doi: "https://doi.org/10.1109/ICIP.2017.8297049"
+doi: "10.1109/ICIP.2017.8297049"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,8 +37,8 @@ tags:
 featured: false
 
 links:
-- name: Web
-  url: https://ieeexplore.ieee.org/document/8297049
+#- name: Web
+#  url: https://ieeexplore.ieee.org/document/8297049
 url_pdf: https://arxiv.org/pdf/1705.00604.pdf
 url_code: ''
 url_dataset: ''

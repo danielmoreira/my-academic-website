@@ -10,7 +10,7 @@ authors:
 - Siome Goldenstein
 - Anderson Rocha
 date: "2017-03-24"
-doi: "https://doi.org/10.1109/WACV.2017.50"
+doi: "10.1109/WACV.2017.50"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,9 +34,9 @@ tags:
 featured: false
 
 links:
-- name: Web
-  url: https://ieeexplore.ieee.org/document/7926633
-url_pdf: ''
+#- name: Web
+#  url: https://ieeexplore.ieee.org/document/7926633
+url_pdf: './publication/2017_wacv/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: './publication/2017_wacv/poster.pdf'

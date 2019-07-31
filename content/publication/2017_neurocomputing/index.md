@@ -10,7 +10,7 @@ authors:
 - Siome Goldenstein
 - Anderson Rocha
 date: "2017-03-22"
-doi: "https://doi.org/10.1016/j.neucom.2016.12.017"
+doi: "10.1016/j.neucom.2016.12.017"
 
 # Schedule page publish date (NOT publication's date).
 # cpublishDate: "2017-01-01T00:00:00Z"
@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: Web
 #  url: 
-url_pdf: ''
+url_pdf: './publication/2017_neurocomputing/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

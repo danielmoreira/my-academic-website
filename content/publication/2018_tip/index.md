@@ -11,7 +11,7 @@ authors:
 - Anderson Rocha
 - Walter Scheirer
 date: "2018-08-16"
-doi: "https://doi.org/10.1109/TIP.2018.2865674"
+doi: "10.1109/TIP.2018.2865674"
 
 # Schedule page publish date (NOT publication's date).
 # cpublishDate: "2017-01-01T00:00:00Z"
