@@ -8,11 +8,11 @@ date: "2019-06-13"
 image:
   focal_point: Center
 ---
-One of the major challenges I face while doing my research is how to drive it towards building a better society.
-Although I understand the concept of a *better society* may be different from one culture to the other, I try to make things simpler by believing that any society gets better whenever **all** of its members experience more **freedom** to enjoy their **rights**. 
+One of the things I worry about while doing my research is how to drive it towards building a better society.
+Although the concept of a *better society* may differ from one culture to the other, I believe any society gets better whenever **all** of its members experience more **freedom** to enjoy their **rights**.
 
-Among the untold manners technology can be used to breach people's rights, five setbacks in the way we are doing informatics get my attention.
-Devices and programs usually suffer from (1) lack of **safety**, (2) nonobservance of **data integrity**, (3) lack of **privacy**, (4) nonobservance of **diversity**, and (5) lack of **accountability**.
+Among the untold manners technology can be used to breach people's rights, five flaws in the way we are doing informatics get my attention.
+Devices and programs usually suffer from (1) lack of **safety**, (2) lack of **trustworthiness**, (3) lack of **privacy**, (4) ignorance of **diversity**, and (5) lack of **accountability**.
 Not unintentionally, the [projects](/#projects) I've been contributing to in the past few years tackle one or more of these issues.
 
 
@@ -28,7 +28,7 @@ Rather than aiming at denouncing or morally condemning the lawful consumers of c
 I've had the chance to tackle the lack of safety in video streaming systems through the [SMA](/project/sma) project.
 
 
-## Data Integrity
+## Trustworthiness
 {{< figure src="trust.jpg" width="300px">}}
 
 In the era of misinformation and *fake news*, there is a symptomatic undermining of trust not only in textual but also in visual information.
@@ -36,11 +36,11 @@ People are conscious of the existence of image editing software (e.g., *Photosho
 Although many of these manipulations have benign purposes (no, there is nothing wrong with *your memes*), some contents are generated with malicious intents, such as general public deception and propaganda.
 
 The lack of available solutions to assess the integrity of images and videos allows adversarial manipulated data to have a negative impact on the way people relate to each other on the Internet.
-They don't know what to trust anymore.
+They don't know what to believe or whom to trust anymore.
 In addition, fraudulent images represent a challenge even for the [scientific community](https://www.nature.com/articles/s41419-018-0430-3).
 Aware of this scenario, [DARPA](https://www.darpa.mil/program/media-forensics) has been funding us, at [CVRL](https://cvrl.nd.edu/), to conduct research on the development of tools to verify the integrity of digital images.
 
-I'm having the chance to tackle the nonobservance of data integrity in visual media systems through the [MediFor](/project/medifor) and [Sci-Int](/project/sciint) projects.
+I'm having the chance to tackle the lack of trustworthiness in visual media systems through the [MediFor](/project/medifor) and [Sci-Int](/project/sciint) projects.
 
 
 ## Privacy and Diversity
@@ -61,11 +61,11 @@ In addition, collected data may be biased, due to a lack of diversity in the cap
 Consider, for instance, training video footages collected in China.
 It is very [unlikely](https://www.nationalgeographic.com/travel/destinations/asia/china/black-tourist-china/) that black people will be represented in such a dataset.
 
-Limitations of this nature comprise what I call *nonobservance of diversity* and are the potential cause of many [technological failures](http://www.cnn.com/2009/TECH/12/22/hp.webcams/index.html) in the presence of underrepresented groups.
+Limitations of this nature comprise what I call *ignorance of diversity* and are the potential cause of many [technological failures](http://www.cnn.com/2009/TECH/12/22/hp.webcams/index.html) in the presence of underrepresented groups.
 Unfortunately, glitches like these may go [beyond the technological aspects](https://www.forbes.com/sites/mzhang/2015/07/01/google-photos-tags-two-african-americans-as-gorillas-through-facial-recognition-software/#41ebc8e8713d) and prejudice the rights of equality in face of diversity.
 To cope with this problem, similar to the privacy protection strategy, synthetic identities can be used to diversify the recorded individuals by performing face replacement, providing controlled variation of not only ethnicity but also of age and of gender.
 
-I'm having the chance to tackle the lack of privacy and nonobservance of diversity in image and video datasets through the [SREFV](/project/srefv) project.
+I'm having the chance to tackle the lack of privacy and ignorance of diversity in image and video datasets through the [SREFV](/project/srefv) project.
 
 
 ## Accountability
