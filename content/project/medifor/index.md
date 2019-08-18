@@ -23,7 +23,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "https://docs.google.com/presentation/d/1P5qeZR2t2pplcJT_niXtSZE9AxeD9kuNf63JcRQCHzM/edit?usp=sharing"
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=Na43QFKW9PE"
 url_dataset: 'https://github.com/CVRL/Reddit_Provenance_Datasets'
 
 # Slides (optional).
@@ -43,6 +43,9 @@ Working together with the Universities of Purdue, South California (USC), New Yo
 1. Finding the images that directly and transitively share content with the probe (a task we call Provenance Filtering).
 
 2. Building the directed acyclic graph whose nodes individually represent the probe and related images, and whose edges express the edition and content-donation history (e.g., cropping, blurring, removal, splicing, etc.) between pairs of images, linking seminal to generated elements (a task we call Provenance Graph Construction).
+
+{{< youtube Na43QFKW9PE >}}
+&NewLine;
 
 By combining ideas from the areas of image retrieval, digital image forensics, and graph theory, Provenance Analysis constitutes an interesting interdisciplinary topic that spans the fields of image processing and computer vision.
 

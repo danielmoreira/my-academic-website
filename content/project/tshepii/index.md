@@ -39,6 +39,7 @@ The tool puts together diverse computer vision techniques to automatically proce
 The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.
 
 {{< youtube FLlXDv8EdeU >}}
+&NewLine;
 
 The video above depicts a demo of the TSHEPII tool, with all the computer vision techniques added to the software.
 As the project name suggests (Tool Supporting the Human Examination of **Post-Mortem** Iris Images), the tool is particularly tuned to the case of comparing post-mortem irises, which, contrary to the common sense, might still be useful for performing iris recognition.
