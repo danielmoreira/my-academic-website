@@ -22,7 +22,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/1P5qeZR2t2pplcJT_niXtSZE9AxeD9kuNf63JcRQCHzM/edit?usp=sharing"
+url_slides: "project/medifor/provenance.pdf"
 url_video: "https://www.youtube.com/watch?v=Na43QFKW9PE"
 url_dataset: 'https://github.com/CVRL/Reddit_Provenance_Datasets'
 
