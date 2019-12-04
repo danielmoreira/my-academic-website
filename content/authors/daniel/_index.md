@@ -86,6 +86,6 @@ social:
 ---
 
 My name is Daniel and I am a computer scientist.
-I received my PhD degree from the [University of Campinas](https://www.timeshighereducation.com/world-university-rankings/2018/latin-america-university-rankings), Brazil, in 2016, and I am currently a postdoctoral researcher at the [University of Notre Dame](https://www.timeshighereducation.com/world-university-rankings/university-notre-dame-0), US.
+I am currently a postdoctoral researcher at the [University of Notre Dame](https://www.timeshighereducation.com/world-university-rankings/university-notre-dame-0), US, and I received my PhD degree from the [University of Campinas](https://www.timeshighereducation.com/world-university-rankings/2018/latin-america-university-rankings), Brazil, in 2016.
 
 As a member of the [Computer Vision Research Lab](https://cvrl.nd.edu/), I investigate the application of techniques from the fields of Computer Vision, Machine Learning and Visual Media Forensics to make our [society better](post/bettersoc).

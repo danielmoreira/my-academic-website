@@ -1,14 +1,14 @@
 ---
-title: "Needle in a Haystack: A Framework for Seeking Small Objects in Big Datasets"
+title: "Dynamic Spatial Verification for Large-Scale Object-Level Image Retrieval"
 authors:
 - Joel Brogan
-- Aparna Bharati
 - Daniel Moreira
+- Aparna Bharati
 - Kevin Bowyer
 - Patrick Flynn
 - Anderson Rocha
 - Walter Scheirer
-date: "2019-03-24"
+date: "2019-12-02"
 doi: ""
 
 # Publication type.
@@ -21,7 +21,7 @@ publication_types: ["3"]
 # publication: "Needle-Haystack scoring"
 # publication_short: "NH score"
 
-abstract: Images from social media can reflect diverse viewpoints, heated arguments, and expressions of creativity --- adding new complexity to search tasks. Researchers working on Content-Based Image Retrieval (CBIR) have traditionally tuned their search algorithms to match filtered results with user search intent. However, we are now bombarded with composite images of unknown origin, authenticity, and even meaning. With such uncertainty, users may not have an initial idea of what the results of a search query should look like. For instance, hidden people, spliced objects, and subtly altered scenes can be difficult for a user to detect initially in a meme image, but may contribute significantly to its composition. We propose a new framework for image retrieval that models object-level regions using image keypoints retrieved from an image index, which are then used to accurately weight small contributing objects within the results, without the need for costly object detection steps. We call this method Needle-Haystack (NH) scoring, and it is optimized for fast matrix operations on CPUs. We show that this method not only performs comparably to state-of-the-art methods in classic CBIR problems, but also outperforms them in fine-grained object- and instance-level retrieval on the Oxford 5K, Paris 6K, Google-Landmarks, and NIST MFC2018 datasets, as well as meme-style imagery from Reddit.
+abstract: Images from social media can reflect diverse viewpoints, heated arguments, and expressions of creativity, adding new complexity to retrieval tasks. Researchers working on Content-Based Image Retrieval (CBIR) have traditionally tuned their algorithms to match filtered results with user search intent. However, we are now bombarded with composite images of unknown origin, authenticity, and even meaning. With such uncertainty, users may not have an initial idea of what the results of a search query should look like. For instance, hidden people, spliced objects, and subtly altered scenes can be difficult for a user to detect initially in a meme image, but may contribute significantly to its composition. We propose a new approach for spatial verification that aims at modeling object-level regions dynamically clustering keypoints in a 2D Hough space, which are then used to accurately weight small contributing objects within the results, without the need for costly object detection steps. We call this method Objects in Scene to Objects in Scene (OS2OS) score, and it is optimized for fast matrix operations on CPUs. OS2OS performs comparably to stateof-the-art methods in classic CBIR problems, on the Oxford 5K, Paris 6K, and Google-Landmarks datasets, without the need for bounding boxes. It also succeeds in emerging retrieval tasks such as image composite matching in the NIST MFC2018 dataset and meme-style composite imagery from Reddit.
 
 # Summary. An optional shortened abstract.
 summary: 2019 ArXiv Preprint
@@ -67,4 +67,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

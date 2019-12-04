@@ -50,6 +50,5 @@ To accomplish item (2), we plan to rely on techniques of Provenance Graph Constr
 - Prof. Patrick Flynn (PI)
 - Daniel Moreira (Postdoc)
 - Aparna Bharati (PhD Student)
-- Joel Brogan (PhD Student)
-- Abigail Graese (PhD Student)
-- João P. Cardenuto (MSc Student)
+- Rosaura Vidal (PhD Student)
+- João P. Cardenuto (Undergrad Student)
