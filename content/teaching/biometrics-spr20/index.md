@@ -1,0 +1,30 @@
+---
+title: Biometrics, Spring 2020
+summary: CSE 40537 / 60537 Biometrics
+tags:
+- Biometrics
+date: "2020-01-14"
+
+image:
+  focal_point: Center
+---
+{{< figure src="nd.jpg" width="250px">}}
+
+----------
+## Details
+Course: CSE 40537 / 60537 Biometrics  
+Instructor: [Daniel Moreira](/) (dhenriq1@nd.edu)  
+Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall  
+Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall
+Slack: https://cse-biometrics-spr20.slack.com   
+Panopto: *Soon.*  
+
+-----------
+## Progress
+* 01/14/2020 - [Syllabus](/teaching/biometrics-spr20/lecture_00.pdf)  
+
+------------------
+## Important Dates
+* *Soon.*    
+
+------------------
