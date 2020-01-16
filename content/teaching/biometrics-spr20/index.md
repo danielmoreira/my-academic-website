@@ -22,9 +22,15 @@ Panopto: *Soon.*
 -----------
 ## Progress
 * 01/14/2020 - [Syllabus](/teaching/biometrics-spr20/lecture_00.pdf)  
+* 01/16/2020 - [Basics I](/teaching/biometrics-spr20/lecture_01.pdf)
 
 ------------------
 ## Important Dates
 * *Soon.*    
+
+------------------
+------------------
+## Documents
+* [Classroom recording notification.](/teaching/biometrics-spr20/panopto.pdf)    
 
 ------------------
