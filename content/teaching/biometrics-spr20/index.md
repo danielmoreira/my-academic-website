@@ -23,6 +23,7 @@ Panopto: *Soon.*
 ## Progress
 * 01/14/2020 - [Syllabus](/teaching/biometrics-spr20/lecture_00.pdf)  
 * 01/16/2020 - [Basics I](/teaching/biometrics-spr20/lecture_01.pdf)
+* 01/21/2020 - [Basics II](/teaching/biometrics-spr20/lecture_02.pdf)
 
 ------------------
 ## Important Dates
