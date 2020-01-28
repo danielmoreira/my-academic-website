@@ -25,7 +25,7 @@ Panopto: *Soon.*
 * 01/16/2020 - [Basics I](/teaching/biometrics-spr20/lecture_01.pdf)
 * 01/21/2020 - [Basics II](/teaching/biometrics-spr20/lecture_02.pdf)
 * 01/23/2020 - [1st Coding Class, Implementation of Metrics](/teaching/biometrics-spr20/lecture_03.zip)
-* 01/28/2020 - [Fingerprint Recognition I]((/teaching/biometrics-spr20/lecture_04.pdf)
+* 01/28/2020 - [Fingerprint Recognition I](/teaching/biometrics-spr20/lecture_04.pdf)
 
 ------------------
 ## Important Dates
@@ -38,5 +38,5 @@ Panopto: *Soon.*
 ------------------
 
 ## Acknowledgments
-This course is heavily based on [Dr. Adam Czajka's](https://engineering.nd.edu/profiles/aczajka) and [Dr. Walter Scheirer's](https://www.wjscheirer.com/teaching/biometrics/yr2015fa/) previous Biometrics courses. I sincerely thank them for kindly allowing me to use their materials.
+This course is heavily based on [Dr. Adam Czajka's](https://engineering.nd.edu/profiles/aczajka) and [Dr. Walter Scheirer's](https://www.wjscheirer.com/teaching/biometrics/yr2015fa/) previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.
  
