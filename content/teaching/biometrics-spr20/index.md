@@ -37,6 +37,6 @@ Panopto: *Soon.*
 
 ------------------
 
-## Acknowledgements
+## Acknowledgments
 This course is heavily based on [Dr. Adam Czajka's](https://engineering.nd.edu/profiles/aczajka) and [Dr. Walter Scheirer's](https://www.wjscheirer.com/teaching/biometrics/yr2015fa/) previous Biometrics courses. I sincerely thank them for kindly allowing me to use their materials.
  
