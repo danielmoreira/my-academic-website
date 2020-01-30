@@ -26,6 +26,7 @@ Panopto: *Soon.*
 * 01/21/2020 - [Basics II](/teaching/biometrics-spr20/lecture_02.pdf)
 * 01/23/2020 - [1st Coding Class, Implementation of Metrics](/teaching/biometrics-spr20/lecture_03.zip)
 * 01/28/2020 - [Fingerprint Recognition I](/teaching/biometrics-spr20/lecture_04.pdf)
+* 01/30/2020 - [Fingerprint Recognition II](/teaching/biometrics-spr20/lecture_05.pdf)
 
 ------------------
 ## Important Dates
