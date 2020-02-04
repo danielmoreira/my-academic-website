@@ -2,7 +2,9 @@
 title: Biometrics, Spring 2020
 summary: CSE 40537 / 60537 Biometrics
 tags:
+- Teaching
 - Biometrics
+- Fingerprint Recognition
 date: "2020-01-14"
 
 image:
@@ -31,7 +33,14 @@ Panopto: *Soon.*
 
 ------------------
 ## Important Dates
-* *Soon.*
+* 03/03/2020 - Fingerprints assignment, deadline (6:00 am) and presentations, *Developers*.
+* 03/05/2020 - Fingerprints assignment, deadline (6:00 am) and presentations, *Attackers*.
+* 03/31/2020 - Faces assignment, deadline (6:00 am) and presentations, *Developers*.
+* 04/02/2020 - Faces assignment, deadline (6:00 am) and presentations, *Attackers*.
+* 04/14/2020 - Irises assignment, deadline (6:00 am) and presentations, *Developers*.
+* 04/16/2020 - Irises assignment, deadline (6:00 am) and presentations, *Attackers*.
+* 04/28/2020 - Last assignment, deadline (6:00 am) and presentations, *Collaboration*.
+* 05/04/2020 - Final exam.
 
 ------------------
 ## Documents
