@@ -31,7 +31,7 @@ Panopto: *Soon.*
 * 01/30/2020 - [Fingerprint Recognition II,](/teaching/biometrics-spr20/lecture_05.pdf) Fingerprint acquisition and enhancement.
 * 02/04/2020 - [Fingerprint Recognition III,](/teaching/biometrics-spr20/lecture_06.pdf) Minutiae detection, description, and matching.
 * 02/06/2020 - Fingerprint Data Collection (data shared through slack).
-# 02/11/2020 - 2nd Coding Class, Minutiae-based fingerprint recognition.
+* 02/11/2020 - 2nd Coding Class, Minutiae-based fingerprint recognition.
 
 ------------------
 ## Important Dates
