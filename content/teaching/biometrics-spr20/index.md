@@ -30,16 +30,18 @@ Panopto: *Soon.*
 * 01/28/2020 - [Fingerprint Recognition I,](/teaching/biometrics-spr20/lecture_04.pdf) Fingerprint usage history, and fingerprint features.
 * 01/30/2020 - [Fingerprint Recognition II,](/teaching/biometrics-spr20/lecture_05.pdf) Fingerprint acquisition and enhancement.
 * 02/04/2020 - [Fingerprint Recognition III,](/teaching/biometrics-spr20/lecture_06.pdf) Minutiae detection, description, and matching.
+* 02/06/2020 - Fingerprint Data Collection (data shared through slack).
+# 02/11/2020 - 2nd Coding Class, Minutiae-based fingerprint recognition.
 
 ------------------
 ## Important Dates
-* 03/03/2020 - Fingerprints assignment, deadline (6:00 am) and presentations, *Developers*.
-* 03/05/2020 - Fingerprints assignment, deadline (6:00 am) and presentations, *Attackers*.
-* 03/31/2020 - Faces assignment, deadline (6:00 am) and presentations, *Developers*.
-* 04/02/2020 - Faces assignment, deadline (6:00 am) and presentations, *Attackers*.
-* 04/14/2020 - Irises assignment, deadline (6:00 am) and presentations, *Developers*.
-* 04/16/2020 - Irises assignment, deadline (6:00 am) and presentations, *Attackers*.
-* 04/28/2020 - Last assignment, deadline (6:00 am) and presentations, *Collaboration*.
+* 03/03/2020 - Fingerprints assignment, *Developers' day*.
+* 03/05/2020 - Fingerprints assignment, *Attackers' day*.
+* 03/31/2020 - Faces assignment, *Developers' day*.
+* 04/02/2020 - Faces assignment, *Attackers' day*.
+* 04/14/2020 - Irises assignment, *Developers' day*.
+* 04/16/2020 - Irises assignment, *Attackers' day*.
+* 04/28/2020 - Last assignment, *Collaboration day*.
 * 05/04/2020 - Final exam.
 
 ------------------
