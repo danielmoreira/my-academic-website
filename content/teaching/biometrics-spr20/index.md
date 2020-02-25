@@ -24,14 +24,16 @@ Panopto: *Soon.*
 -----------
 ## Progress
 * 01/14/2020 - [Syllabus,](/teaching/biometrics-spr20/lecture_00.pdf) Course details.
-* 01/16/2020 - [Basics I,](/teaching/biometrics-spr20/lecture_01.pdf) Definition of Biometrics, traits, and biometric systems. 
-* 01/21/2020 - [Basics II,](/teaching/biometrics-spr20/lecture_02.pdf) Biometric system errors, metrics, and attacks. 
+* 01/16/2020 - [Basics I,](/teaching/biometrics-spr20/lecture_01.pdf) Biometrics, traits, and systems. 
+* 01/21/2020 - [Basics II,](/teaching/biometrics-spr20/lecture_02.pdf) Errors, metrics, and attacks. 
 * 01/23/2020 - [1st Coding Class,](/teaching/biometrics-spr20/lecture_03.zip) Implementation of metrics.
-* 01/28/2020 - [Fingerprint Recognition I,](/teaching/biometrics-spr20/lecture_04.pdf) Fingerprint usage history, and fingerprint features.
-* 01/30/2020 - [Fingerprint Recognition II,](/teaching/biometrics-spr20/lecture_05.pdf) Fingerprint acquisition and enhancement.
-* 02/04/2020 - [Fingerprint Recognition III,](/teaching/biometrics-spr20/lecture_06.pdf) Minutiae detection, description, and matching.
-* 02/06/2020 - Fingerprint Data Collection (data shared through slack).
-* 02/11/2020 - 2nd Coding Class, Minutiae-based fingerprint recognition.
+* 01/28/2020 - [Fingerprint Recognition I,](/teaching/biometrics-spr20/lecture_04.pdf) History and features.
+* 01/30/2020 - [Fingerprint Recognition II,](/teaching/biometrics-spr20/lecture_05.pdf) Acquisition and enhancement.
+* 02/04/2020 - [Fingerprint Recognition III,](/teaching/biometrics-spr20/lecture_06.pdf) Minutiae detection.
+* 02/06/2020 - [Fingerprint Data Collection,](/teaching/biometrics-spr20/lecture_07.zip) password with instructor.
+* 02/11/2020 - [2nd Coding Class,](/teaching/biometrics-spr20/lecture_08_09.zip) Minutiae-based recognition.
+* 02/13/2020 - 2nd Coding Class, continuation.
+* 02/18/2020 - [Face Recognition I,](/teaching/biometrics-spr20/lecture_10.pdf) Why faces and comparison to fingerprints.
 
 ------------------
 ## Important Dates
