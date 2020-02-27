@@ -32,8 +32,11 @@ Panopto: *Soon.*
 * 02/04/2020 - [Fingerprint Recognition III,](/teaching/biometrics-spr20/lecture_06.pdf) Minutiae detection.
 * 02/06/2020 - [Fingerprint Data Collection,](/teaching/biometrics-spr20/lecture_07.zip) password with instructor.
 * 02/11/2020 - [2nd Coding Class,](/teaching/biometrics-spr20/lecture_08_09.zip) Minutiae-based recognition.
-* 02/13/2020 - 2nd Coding Class, continuation.
-* 02/18/2020 - [Face Recognition I,](/teaching/biometrics-spr20/lecture_10.pdf) Why faces and comparison to fingerprints.
+* 02/13/2020 - [2nd Coding Class,](/teaching/biometrics-spr20/lecture_08_09.zip) continuation.
+* 02/18/2020 - [Face Recognition I,](/teaching/biometrics-spr20/lecture_10.pdf) Why faces and faces vs. fingerprints.
+* 02/20/2020 - [Face Recognition II,](/teaching/biometrics-spr20/lecture_11.pdf) Acquisition and enhancement.
+* 02/25/2020 - [Face Recognition III,](/teaching/biometrics-spr20/lecture_12.pdf) Description and matching.
+* 02/27/2020 - 3rd Coding Class, Face detection, description, and matching.
 
 ------------------
 ## Important Dates
