@@ -21,7 +21,7 @@ Instructor: [Daniel Moreira](/) (dhenriq1@nd.edu)
 ~~Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall~~<sup>[1](#covid19)</sup>
 Lectures: TUE and THR, 2:00 to 3:15 PM, through Zoom<sup>[1](#covid19)</sup>  
 Office Hours: TUE and THR, 5:05 to 6:15 PM, through Zoom<sup>[1](#covid19)</sup>  
-*Students are not obligated to attend classes at 2:00 pm.*  
+*Students are not obligated to attend classes at 2:00 pm, but are certainly welcome.*  
 *All classes are being recorded with Panopto.*  
 
 Slack: https://cse-biometrics-spr20.slack.com  
