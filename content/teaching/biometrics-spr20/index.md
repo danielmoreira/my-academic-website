@@ -72,12 +72,13 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * 05/04/2020 - Final exam.
 
 ------------------
+<a name="covid19"></a>
 ## Documents
 * [Classroom recording notification.](/teaching/biometrics-spr20/panopto.pdf)    
 
 ------------------
 ## COVID-19
-<a name="covid19">1</a>: Modified/canceled due to [COVID-19.](https://coronavirus.nd.edu/)
+1: Modified/canceled due to [COVID-19.](https://coronavirus.nd.edu/)
 
 ------------------
 ## Acknowledgments
