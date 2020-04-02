@@ -19,8 +19,8 @@ Instructor: [Daniel Moreira](/) (dhenriq1@nd.edu)
  
 ~~Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall~~<sup>[1](#covid19)</sup>  
 ~~Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall~~<sup>[1](#covid19)</sup>
-Lectures: TUE and THR, 2:00 to 3:15 PM, through Zoom<sup>[1](#covid19)</sup>  
-Office Hours: TUE and THR, 5:05 to 6:15 PM, through Zoom<sup>[1](#covid19)</sup>  
+Lectures: TUE and THR, 2:00 to 3:15 PM, at Zoom<sup>[1](#covid19)</sup>  
+Office Hours: TUE and THR, 5:05 to 6:20 PM, at Zoom<sup>[1](#covid19)</sup>  
 *Students are not obligated to attend classes at 2:00 pm, but are certainly welcome. All classes are being recorded with Panopto.*  
 
 Slack: https://cse-biometrics-spr20.slack.com  
@@ -46,13 +46,14 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * 02/27/2020 - [3rd Coding Class,](/teaching/biometrics-spr20/lecture_13.zip) Face recognition.
 * 03/03/2020 - Fingerprints assignment, *Developers' day*.
 * 03/05/2020 - Fingerprints assignment, *Attackers' day*.
-* 03/10/2020 - Spring Break, enjoy it!
-* 03/12/2020 - Spring Break, enjoy it!
+* 03/10/2020 - Spring Break.
+* 03/12/2020 - Spring Break.
 * 03/17/2020 - Extended Spring Break<sup>[1](#covid19)</sup>.
 * 03/18/2020 - Extended Spring Break<sup>[1](#covid19)</sup>.
 * 03/24/2020 - [New Course Directions<sup>1</sup>.](/teaching/biometrics-spr20/lecture_16.pdf)
 * 03/26/2020 - [Iris Recog. I,](/teaching/biometrics-spr20/lecture_17.pdf) Why irises and irises vs. other traits.
 * 03/31/2020 - [Iris Recog. II,](/teaching/biometrics-spr20/lecture_18.pdf) Acquisition and enhancement.
+* 04/02/2020 - [Iris Recog. III,](/teaching/biometrics-spr20/lecture_19.pdf) Description and matching.
 
 ------------------
 ## Important Dates
@@ -75,10 +76,11 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * [Classroom recording notification.](/teaching/biometrics-spr20/panopto.pdf)    
 
 ------------------
+## COVID-19
+<a name="covid19">1</a>: Modified/canceled due to [COVID-19.](https://coronavirus.nd.edu/)
+
+------------------
 ## Acknowledgments
 This course is heavily based on [Dr. Adam Czajka's](https://engineering.nd.edu/profiles/aczajka) and [Dr. Walter Scheirer's](https://www.wjscheirer.com/teaching/biometrics/yr2015fa/) previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.
 
 ------------------
-## COVID-19
-<a name="covid19">1</a>: Modified/canceled due to [COVID-19.](https://coronavirus.nd.edu/)
- 
