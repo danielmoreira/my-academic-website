@@ -54,6 +54,7 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * 03/26/2020 - [Iris Recog. I,](/teaching/biometrics-spr20/lecture_17.pdf) Why irises and irises vs. other traits.
 * 03/31/2020 - [Iris Recog. II,](/teaching/biometrics-spr20/lecture_18.pdf) Acquisition and enhancement.
 * 04/02/2020 - [Iris Recog. III,](/teaching/biometrics-spr20/lecture_19.pdf) Description and matching.
+* 04/07/2020 - [4th Coding Class,](/teaching/biometrics-spr20/lecture_20.zip) Iris recognition.
 
 ------------------
 ## Important Dates
