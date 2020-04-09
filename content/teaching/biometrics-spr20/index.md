@@ -5,6 +5,8 @@ tags:
 - Teaching
 - Biometrics
 - Fingerprint Recognition
+- Face Recognition
+- Iris Recognition
 date: "2020-01-14"
 
 image:
@@ -55,6 +57,7 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * 03/31/2020 - [Iris Recog. II,](/teaching/biometrics-spr20/lecture_18.pdf) Acquisition and enhancement.
 * 04/02/2020 - [Iris Recog. III,](/teaching/biometrics-spr20/lecture_19.pdf) Description and matching.
 * 04/07/2020 - [4th Coding Class,](/teaching/biometrics-spr20/lecture_20.zip) Iris recognition.
+* 04/09/2020 - [Multibiometrics,](/teaching/biometrics-spr20/lecture_21.pdf) Other traits, data fusion.
 
 ------------------
 ## Important Dates
