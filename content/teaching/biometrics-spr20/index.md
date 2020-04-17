@@ -71,7 +71,7 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * <span style="color:red">~~04/16/2020 - Irises assignment, *Attackers' day*.~~<sup>[1](#covid19)</sup></span>
 * <span style="color:red">~~04/28/2020 - Last assignment, *Collaboration day*.~~<sup>[1](#covid19)</sup></span>
 * ~~04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp's talk.~~
-* 04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka's talk.
+* ~~04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka's talk.~~
 * 04/21/2020 - Faces assignment, *Developers' day*<sup>[1](#covid19)</sup></span>.
 * 04/23/2020 - Irises assignment, *Developers' day*<sup>[1](#covid19)</sup></span>.
 * 04/28/2020 - Final Report due date<sup>[1](#covid19)</sup></span>.
@@ -107,6 +107,6 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 
 ------------------
 ## Acknowledgments
-This course is heavily based on [Dr. Adam Czajka's](https://engineering.nd.edu/profiles/aczajka) and [Dr. Walter Scheirer's](https://www.wjscheirer.com/teaching/biometrics/yr2015fa/) previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.
+This course is heavily based on [Dr. Adam Czajka's](https://engineering.nd.edu/profiles/aczajka) and [Dr. Walter Scheirer's](https://www.wjscheirer.com/) previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.
 
 ------------------
