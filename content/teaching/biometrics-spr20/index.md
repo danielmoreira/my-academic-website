@@ -60,6 +60,8 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * 04/09/2020 - [Multibiometrics,](/teaching/biometrics-spr20/lecture_21.pdf) Other traits, data fusion.
 * 04/14/2020 - [1st Invited Talk,](#kuehlkamp) Dr. Andrey Kuehlkamp.
 * 04/16/2020 - [2nd Invited Talk,](#czajka) Dr. Adam Czajka.
+* 04/21/2020 - Faces assignment, *Developers' day*.
+* 04/23/2020 - Irises assignment, *Developers' day*.
 
 ------------------
 ## Important Dates
@@ -72,8 +74,8 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * <span style="color:red">~~04/28/2020 - Last assignment, *Collaboration day*.~~<sup>[1](#covid19)</sup></span>
 * ~~04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp's talk.~~
 * ~~04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka's talk.~~
-* 04/21/2020 - Faces assignment, *Developers' day*<sup>[1](#covid19)</sup></span>.
-* 04/23/2020 - Irises assignment, *Developers' day*<sup>[1](#covid19)</sup></span>.
+* ~~04/21/2020 - Faces assignment, *Developers' day*<sup>[1](#covid19)</sup></span>.~~
+* ~~04/23/2020 - Irises assignment, *Developers' day*<sup>[1](#covid19)</sup></span>.~~
 * 04/28/2020 - Final Report due date<sup>[1](#covid19)</sup></span>.
 * 05/04/2020 - Final exam.
 
@@ -97,9 +99,11 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 | **Is this eye alive or artificial?**</br> *Oh wait, maybe it’s dead? Detection of unknown presentation attacks in biometrics.*</br></br> Presentation attacks are those physical presentations to a biometric system that aim at driving it into an incorrect decision. Rediscovered recently in general computer vision community (and raising a significant interest; look --- for instance --- for famous stop sign attacks on deep learning-based object detection models), these attacks are known in biometrics for several decades. In this talk, I will use iris recognition as an example and will present the huge creativity of attackers in using various artifacts (printouts, patterned contact lenses, plastic eyes, GAN-generated fakes and... dead eyes) to spoof a system. Although training a model to recognize each of these presentation attack instruments is relatively easy and works well, a big challenge now is how to build models that generalize onto unknown attack types, going beyond our understanding of attackers’ creativity when training our models. I will present a few methods we are exploring in our research to provide presentation attack detection methods that perform promisingly in open-set classification scenario. |
 
 ------------------
-<a name="covid19"></a>
-## Documents
+## Important Links
 * [Classroom recording notification.](/teaching/biometrics-spr20/panopto.pdf)    
+<a name="covid19"></a>
+* [Yale face dataset, ](http://vision.ucsd.edu/content/yale-face-database) used to replace face acquisition<sup>[1](#covid19)</sup></span>.
+* [CASIA-IrisV1, ](http://biometrics.idealtest.org/dbDetailForUser.do?id=1) used to replace iris acquisition<sup>[1](#covid19)</sup></span>.
 
 ------------------
 ## COVID-19
