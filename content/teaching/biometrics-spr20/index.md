@@ -28,7 +28,9 @@ Office Hours: TUE and THR, 5:05 to 6:20 PM, at Zoom<sup>[1](#covid19)</sup>
 Slack: https://cse-biometrics-spr20.slack.com  
 Panopto: https://bit.ly/33ZkU97  
 Zoom: https://notredame.zoom.us/my/dmoreira  
-
+   
+**Course grades are now [available.](/teaching/biometrics-spr20/grades.pdf)**
+![Fake fingers made by students.](fake-fingers.jpg)
 
 -----------
 ## Progress
@@ -62,6 +64,8 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * 04/16/2020 - [2nd Invited Talk,](#czajka) Dr. Adam Czajka.
 * 04/21/2020 - Faces assignment, *Developers' day*.
 * 04/23/2020 - Irises assignment, *Developers' day*.
+* 04/28/2020 - [Assignment Report](/teaching/biometrics-spr20/assignment-grades.pdf) due date.
+* 05/04/2020 - [Final exam,](/teaching/biometrics-spr20/exam.pdf) see [grades.](/teaching/biometrics-spr20/exam-grades.pdf)
 
 ------------------
 ## Important Dates
@@ -76,8 +80,8 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 * ~~04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka's talk.~~
 * ~~04/21/2020 - Faces assignment, *Developers' day*<sup>[1](#covid19)</sup></span>.~~
 * ~~04/23/2020 - Irises assignment, *Developers' day*<sup>[1](#covid19)</sup></span>.~~
-* 04/28/2020 - Final Report due date<sup>[1](#covid19)</sup></span>.
-* 05/04/2020 - Final exam.
+* ~~04/28/2020 - Final Report due date<sup>[1](#covid19)</sup></span>.~~
+* ~~05/04/2020 - Final exam.~~
 
 ------------------
 <a name="kuehlkamp"></a>
@@ -99,11 +103,35 @@ Zoom: https://notredame.zoom.us/my/dmoreira
 | **Is this eye alive or artificial?**</br> *Oh wait, maybe it’s dead? Detection of unknown presentation attacks in biometrics.*</br></br> Presentation attacks are those physical presentations to a biometric system that aim at driving it into an incorrect decision. Rediscovered recently in general computer vision community (and raising a significant interest; look --- for instance --- for famous stop sign attacks on deep learning-based object detection models), these attacks are known in biometrics for several decades. In this talk, I will use iris recognition as an example and will present the huge creativity of attackers in using various artifacts (printouts, patterned contact lenses, plastic eyes, GAN-generated fakes and... dead eyes) to spoof a system. Although training a model to recognize each of these presentation attack instruments is relatively easy and works well, a big challenge now is how to build models that generalize onto unknown attack types, going beyond our understanding of attackers’ creativity when training our models. I will present a few methods we are exploring in our research to provide presentation attack detection methods that perform promisingly in open-set classification scenario. |
 
 ------------------
-## Important Links
+## Links
 * [Classroom recording notification.](/teaching/biometrics-spr20/panopto.pdf)    
-<a name="covid19"></a>
 * [Yale face dataset, ](http://vision.ucsd.edu/content/yale-face-database) used to replace face acquisition<sup>[1](#covid19)</sup></span>.
 * [CASIA-IrisV1, ](http://biometrics.idealtest.org/dbDetailForUser.do?id=1) used to replace iris acquisition<sup>[1](#covid19)</sup></span>.
+
+------------------
+## Biometrics on the News
+Posted by the students and the instructor on Slack:
+
+* https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver
+
+* https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html
+
+* https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/
+
+* https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
+
+* https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security
+
+* https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html
+
+* https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162
+
+* https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html
+
+* https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/
+
+* https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/
+<a name="covid19"></a>
 
 ------------------
 ## COVID-19
