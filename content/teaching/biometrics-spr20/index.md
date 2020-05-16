@@ -25,7 +25,7 @@ Lectures: TUE and THR, 2:00 to 3:15 PM, at Zoom<sup>[1](#covid19)</sup>
 Office Hours: TUE and THR, 5:05 to 6:20 PM, at Zoom<sup>[1](#covid19)</sup>  
 *Students are not obligated to attend classes at 2:00 pm, but are certainly welcome. All classes are being recorded with Panopto.*  
 
-Slack: https://cse-biometrics-spr20.slack.com  
+Slack: ~~https://cse-biometrics-spr20.slack.com~~ *(now deactivated)*
 Panopto: https://bit.ly/33ZkU97  
 Zoom: https://notredame.zoom.us/my/dmoreira  
    
