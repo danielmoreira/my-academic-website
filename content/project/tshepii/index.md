@@ -31,7 +31,7 @@ url_video: "https://www.youtube.com/watch?v=FLlXDv8EdeU"
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-**Status:** Wrapping up   
+**Status:** Concluded   
 **Advisor:** Prof. [Adam Czajka](https://engineering.nd.edu/profiles/aczajka)
 
 The TSHEPII project aims at developing a software tool to support the human examination of post-mortem iris images.

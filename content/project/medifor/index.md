@@ -33,7 +33,7 @@ url_dataset: 'https://github.com/CVRL/Reddit_Provenance_Datasets'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-**Status:** Ongoing, **Funded by:** DARPA   
+**Status:** Concluded, **Funded by:** DARPA   
 **Advisor:** Prof. [Walter Scheirer](https://www.wjscheirer.com/)
 
 The Media Forensics research project ([MediFor](https://www.darpa.mil/program/media-forensics)) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL), whose goal is to develop solutions for the automated assessment of the integrity of digital images.

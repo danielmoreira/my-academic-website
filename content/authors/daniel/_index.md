@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Assistant Research Professor
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: 'mailto:dhenriq1@nd.edu'
+  link: 'mailto:daniel.moreira@nd.edu'
 
 - icon: adobe
   icon_pack: fab
@@ -86,6 +86,6 @@ social:
 ---
 
 My name is Daniel and I am a computer scientist.
-I am currently a postdoctoral researcher at the [University of Notre Dame](https://www.timeshighereducation.com/world-university-rankings/university-notre-dame-0), US, and I received my PhD degree from the [University of Campinas](https://www.timeshighereducation.com/world-university-rankings/2018/latin-america-university-rankings), Brazil, in 2016.
+I am currently an assistant research professor at the [University of Notre Dame](https://www.timeshighereducation.com/world-university-rankings/university-notre-dame-0), US, and I received my PhD degree from the [University of Campinas](https://www.timeshighereducation.com/world-university-rankings/university-campinas), Brazil, in 2016.
 
 As a member of the [Computer Vision Research Lab](https://cvrl.nd.edu/), I investigate the application of techniques from the fields of Computer Vision, Machine Learning and Visual Media Forensics to make our [society better](post/bettersoc).

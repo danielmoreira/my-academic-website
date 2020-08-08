@@ -19,12 +19,23 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Research Professor"
+  company = "University of Notre Dame"
+  company_url = "https://www.nd.edu/"
+  location = "Notre Dame, IN, US"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """
+Member of the [Department of Computer Science and Engineering (CSE)](https://cse.nd.edu/) and of the [Center for Research Computing (CRC)](https://crc.nd.edu/).
+"""
+
+[[experience]]
   title = "Research Scholar"
   company = "University of Notre Dame"
   company_url = "https://www.nd.edu/"
   location = "Notre Dame, IN, US"
   date_start = "2016-08-15"
-  date_end = ""
+  date_end = "2020-07-31"
   description = """
 Postdoctoral researcher at the [Computer Vision Research Lab (CVRL)](https://cvrl.nd.edu/).
 """

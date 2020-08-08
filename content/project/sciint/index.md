@@ -6,7 +6,7 @@ tags:
 - Image Manipulation Detection
 - Provenance Analysis
 - Natural Language Processing
-date: "2019-05-30"
+date: "2019-06-02"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

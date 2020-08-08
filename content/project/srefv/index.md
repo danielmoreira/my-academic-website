@@ -32,7 +32,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-**Status:** Wrapping up   
+**Status:** Concluded   
 **Advisor:** Prof. [Patrick Flynn](http://sites.nd.edu/patrick-flynn/)
 
 The SREFV project aims at extending [prior research](https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20(SREFI)) on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.
